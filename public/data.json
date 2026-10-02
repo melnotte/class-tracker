@@ -1,147 +1,31 @@
 {
   "className": "Taller de Diseño y Animación Digital",
   "totalSessions": 12,
-  "completedSessions": 6,
+  "completedSessions": 4,
   "classes": [
     {
       "id": "c1",
-      "title": "Clase 1: HTML básico",
+      "title": "Parcial 1",
       "activities": [
         {
           "id": "a1",
-          "name": "Estructura de una página",
+          "name": "Actividad 1",
           "points": 10
         },
         {
           "id": "a2",
-          "name": "Etiquetas de texto",
-          "points": 10
-        },
-        {
-          "id": "a3",
-          "name": "Enlaces e imágenes",
-          "points": 10
-        }
-      ]
-    },
-    {
-      "id": "c2",
-      "title": "Clase 2: CSS",
-      "activities": [
-        {
-          "id": "a4",
-          "name": "Colores y tipografía",
-          "points": 10
-        },
-        {
-          "id": "a5",
-          "name": "Cajas y espaciado",
-          "points": 10
-        },
-        {
-          "id": "a6",
-          "name": "Diseño con flexbox",
-          "points": 10
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "title": "Clase 3: Portafolio",
-      "activities": [
-        {
-          "id": "a7",
-          "name": "Crear la página de inicio",
-          "points": 10
-        },
-        {
-          "id": "a8",
-          "name": "Sección de proyectos",
-          "points": 10
-        },
-        {
-          "id": "a9",
-          "name": "Publicar el sitio",
-          "points": 10
-        }
-      ]
-    },
-    {
-      "id": "c4",
-      "title": "Clase 4: Pulido final",
-      "activities": [
-        {
-          "id": "a10",
-          "name": "Versión móvil",
-          "points": 10
-        },
-        {
-          "id": "a11",
-          "name": "Animaciones simples",
-          "points": 10
-        },
-        {
-          "id": "a12",
-          "name": "Revisión entre compañeros",
-          "points": 10
-        }
-      ]
-    },
-    {
-      "id": "c7uje70",
-      "title": "Clase 5: Modelado",
-      "activities": [
-        {
-          "id": "a7l0lvk",
-          "name": "1",
-          "points": 10
-        },
-        {
-          "id": "a26qjod",
-          "name": "2",
-          "points": 10
-        },
-        {
-          "id": "agkfeom",
-          "name": "3",
-          "points": 10
-        }
-      ]
-    },
-    {
-      "id": "cyxx5yy",
-      "title": "Clase 6: Ejemplo",
-      "activities": [
-        {
-          "id": "aw1yfby",
-          "name": "Nueva actividad0",
+          "name": "Actividad 2",
           "points": 10
         }
       ]
     },
     {
       "id": "csd24bj",
-      "title": "Clase 7",
+      "title": "Parcial 2",
       "activities": [
         {
           "id": "a6bq1q0",
-          "name": "Nueva actividad1",
-          "points": 10
-        },
-        {
-          "id": "a8wljp7",
-          "name": "Nueva actividad2",
-          "points": 10
-        }
-      ]
-    },
-    {
-      "id": "c0dpqmd",
-      "title": "Clase 8",
-      "activities": [
-        {
-          "id": "al9t0c2",
-          "name": "Nueva actividad3",
+          "name": "Actividad 3",
           "points": 10
         }
       ]
@@ -150,112 +34,117 @@
   "students": [
     {
       "id": "s1",
-      "name": "Ana",
-      "portfolioUrl": "https://example.com",
-      "completed": [
-        "a7",
-        "a8",
-        "al9t0c2",
-        "a6bq1q0",
-        "a8wljp7"
-      ]
-    },
-    {
-      "id": "s2",
-      "name": "Luis",
-      "portfolioUrl": "https://example.com",
-      "completed": [
-        "a1",
-        "a2",
-        "a3",
-        "a7",
-        "al9t0c2",
-        "a6bq1q0",
-        "a8wljp7"
-      ]
-    },
-    {
-      "id": "s3",
-      "name": "Sofía",
-      "portfolioUrl": "",
-      "completed": [
-        "a1",
-        "a2",
-        "a3",
-        "a4",
-        "a6",
-        "a6bq1q0",
-        "a8wljp7"
-      ]
-    },
-    {
-      "id": "s4",
-      "name": "Diego",
-      "portfolioUrl": "https://example.com",
-      "completed": [
-        "a1",
-        "a2",
-        "a3"
-      ]
-    },
-    {
-      "id": "s5",
-      "name": "Valeria",
-      "portfolioUrl": "",
-      "completed": [
-        "a1",
-        "a2",
-        "a3",
-        "a4"
-      ]
-    },
-    {
-      "id": "s6",
-      "name": "Mateo",
-      "portfolioUrl": "https://example.com",
-      "completed": [
-        "a1",
-        "a2",
-        "a3"
-      ]
-    },
-    {
-      "id": "s7",
-      "name": "Camila",
-      "portfolioUrl": "",
-      "completed": [
-        "a1",
-        "a2"
-      ]
-    },
-    {
-      "id": "s8",
-      "name": "Andrés",
-      "portfolioUrl": "",
-      "completed": [
-        "a1",
-        "a2"
-      ]
-    },
-    {
-      "id": "s9",
-      "name": "Renata",
+      "name": "Ulises AA",
       "portfolioUrl": "",
       "completed": [
         "a1"
       ]
     },
     {
-      "id": "s10",
-      "name": "Joaquín",
-      "portfolioUrl": "https://www.youtube.com/",
+      "id": "s2",
+      "name": "Diego BG",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "s3",
+      "name": "Gael CN",
+      "portfolioUrl": "",
       "completed": [
-        "agkfeom",
-        "a26qjod",
-        "a7l0lvk",
-        "a7",
-        "a8",
-        "a9"
+        "a1",
+        "a2"
+      ]
+    },
+    {
+      "id": "s4",
+      "name": "Raul CS",
+      "portfolioUrl": "",
+      "completed": [
+        "a1",
+        "a2"
+      ]
+    },
+    {
+      "id": "s5",
+      "name": "Hasiel CF",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "s6",
+      "name": "Alexandra CP",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "s7",
+      "name": "Regina CC",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "s8",
+      "name": "Danna CM",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "s9",
+      "name": "Rocco GW",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "s10",
+      "name": "Emiliano MB",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "sfh527j",
+      "name": "Annouk PS",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "shxr0vb",
+      "name": "Raziel PL",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "sxcb6bo",
+      "name": "Leonardo RH",
+      "portfolioUrl": "",
+      "completed": [
+        "a1"
+      ]
+    },
+    {
+      "id": "sqjn74d",
+      "name": "Xavi RC",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "sspe1rk",
+      "name": "Julius TA",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "sg21bkp",
+      "name": "Dulce BV",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "sqt8lb8",
+      "name": "Isabella CJ",
+      "portfolioUrl": "",
+      "completed": [
+        "a1",
+        "a2"
       ]
     }
   ]
