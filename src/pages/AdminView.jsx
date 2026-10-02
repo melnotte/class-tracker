@@ -1,11 +1,12 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { Settings, BookOpen, Users, CheckSquare, Eye, Download, RotateCcw } from 'lucide-react'
+import { Settings, BookOpen, Users, CheckSquare, Eye, Download, RotateCcw, UploadCloud } from 'lucide-react'
 import { useData } from '../context/dataContext'
 import GeneralTab from '../components/admin/GeneralTab'
 import ClassesTab from '../components/admin/ClassesTab'
 import StudentsTab from '../components/admin/StudentsTab'
 import ProgressTab from '../components/admin/ProgressTab'
+import PublishTab from '../components/admin/PublishTab'
 import { btnGhost } from '../components/admin/ui'
 
 const TABS = [
@@ -13,10 +14,11 @@ const TABS = [
   { id: 'classes', label: 'Clases', Icon: BookOpen, Component: ClassesTab },
   { id: 'students', label: 'Estudiantes', Icon: Users, Component: StudentsTab },
   { id: 'general', label: 'General', Icon: Settings, Component: GeneralTab },
+  { id: 'publish', label: 'Publicar', Icon: UploadCloud, Component: PublishTab },
 ]
 
 export default function AdminView() {
-  const { data, resetData } = useData()
+  const { data, resetData, dirty } = useData()
   const [tab, setTab] = useState('progress')
   const Active = TABS.find((t) => t.id === tab).Component
 
@@ -41,6 +43,9 @@ export default function AdminView() {
           <div>
             <h1 className="text-2xl font-bold">Panel de administrador</h1>
             <p className="text-sm text-slate-400">{data.className}</p>
+            {dirty && (
+                <p className="mt-1 text-xs font-semibold text-amber-400">Cambios sin publicar</p>
+            )}
           </div>
           <div className="flex flex-wrap gap-2">
             <Link to="/" className={btnGhost}>
