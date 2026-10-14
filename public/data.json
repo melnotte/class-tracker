@@ -1,7 +1,7 @@
 {
   "className": "Taller de Diseño y Animación Digital",
   "totalSessions": 12,
-  "completedSessions": 4,
+  "completedSessions": 6,
   "classes": [
     {
       "id": "c1",
@@ -16,6 +16,11 @@
           "id": "a2",
           "name": "Actividad 2",
           "points": 10
+        },
+        {
+          "id": "aoesyu6",
+          "name": "Actividad 3",
+          "points": 10
         }
       ]
     },
@@ -25,7 +30,7 @@
       "activities": [
         {
           "id": "a6bq1q0",
-          "name": "Actividad 3",
+          "name": "Actividad 4",
           "points": 10
         }
       ]
@@ -38,7 +43,8 @@
       "portfolioUrl": "https://sites.google.com/lawrenceschool.edu.mx/portafoliozarek/p%C3%A1gina-principal?authuser=4",
       "completed": [
         "a1",
-        "a6bq1q0"
+        "a6bq1q0",
+        "aoesyu6"
       ]
     },
     {
@@ -50,19 +56,23 @@
     {
       "id": "s3",
       "name": "Gael CN",
-      "portfolioUrl": "",
+      "portfolioUrl": "https://castronport.straw.page/",
       "completed": [
         "a1",
-        "a2"
+        "a2",
+        "a6bq1q0",
+        "aoesyu6"
       ]
     },
     {
       "id": "s4",
       "name": "Raul CS",
-      "portfolioUrl": "",
+      "portfolioUrl": "https://sites.google.com/lawrenceschool.edu.mx/diffuse-art/p%C3%A1gina-principal?authuser=4",
       "completed": [
         "a1",
-        "a2"
+        "a2",
+        "a6bq1q0",
+        "aoesyu6"
       ]
     },
     {
@@ -95,7 +105,9 @@
       "id": "s10",
       "name": "Emiliano MB",
       "portfolioUrl": "",
-      "completed": []
+      "completed": [
+        "a6bq1q0"
+      ]
     },
     {
       "id": "sfh527j",
@@ -116,7 +128,8 @@
       "name": "Leonardo RH",
       "portfolioUrl": "",
       "completed": [
-        "a1"
+        "a1",
+        "a6bq1q0"
       ]
     },
     {
@@ -146,7 +159,7 @@
       "completed": [
         "a1",
         "a2",
-        "a6bq1q0"
+        "aoesyu6"
       ]
     }
   ]
