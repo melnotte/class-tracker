@@ -32,6 +32,11 @@
           "id": "a6bq1q0",
           "name": "Actividad 4",
           "points": 10
+        },
+        {
+          "id": "agefnr4",
+          "name": "Actividad 5",
+          "points": 10
         }
       ]
     }
@@ -106,7 +111,8 @@
       "name": "Emiliano MB",
       "portfolioUrl": "",
       "completed": [
-        "a6bq1q0"
+        "a6bq1q0",
+        "agefnr4"
       ]
     },
     {
@@ -114,7 +120,8 @@
       "name": "Annouk PS",
       "portfolioUrl": "",
       "completed": [
-        "a1"
+        "a1",
+        "a6bq1q0"
       ]
     },
     {
@@ -159,7 +166,8 @@
       "completed": [
         "a1",
         "a2",
-        "aoesyu6"
+        "aoesyu6",
+        "a6bq1q0"
       ]
     }
   ]
