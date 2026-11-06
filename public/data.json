@@ -39,6 +39,22 @@
           "points": 10
         }
       ]
+    },
+    {
+      "id": "c2b1ez8",
+      "title": "Parcial 3",
+      "activities": [
+        {
+          "id": "akpvtx4",
+          "name": "Actividad 6",
+          "points": 10
+        },
+        {
+          "id": "aimqfmg",
+          "name": "Actividad 7",
+          "points": 10
+        }
+      ]
     }
   ],
   "students": [
@@ -49,7 +65,8 @@
       "completed": [
         "a1",
         "a6bq1q0",
-        "aoesyu6"
+        "aoesyu6",
+        "agefnr4"
       ]
     },
     {
@@ -66,7 +83,8 @@
         "a1",
         "a2",
         "a6bq1q0",
-        "aoesyu6"
+        "aoesyu6",
+        "agefnr4"
       ]
     },
     {
@@ -121,12 +139,13 @@
       "portfolioUrl": "",
       "completed": [
         "a1",
-        "a6bq1q0"
+        "a6bq1q0",
+        "agefnr4"
       ]
     },
     {
       "id": "shxr0vb",
-      "name": "Raziel PL",
+      "name": "Sergio PL",
       "portfolioUrl": "",
       "completed": []
     },
@@ -150,7 +169,9 @@
       "name": "Julius TA",
       "portfolioUrl": "",
       "completed": [
-        "a1"
+        "a1",
+        "a6bq1q0",
+        "agefnr4"
       ]
     },
     {
@@ -169,6 +190,18 @@
         "aoesyu6",
         "a6bq1q0"
       ]
+    },
+    {
+      "id": "s3nfj0e",
+      "name": "Camila LM",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "smvl52x",
+      "name": "Yaiza GC",
+      "portfolioUrl": "",
+      "completed": []
     }
   ]
 }
