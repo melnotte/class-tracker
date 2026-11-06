@@ -3,7 +3,7 @@ import { Crown, ExternalLink } from 'lucide-react'
 import ProgressBar from './ProgressBar'
 import { ZONES } from '../lib/zones'
 
-export default function StudentRow({ student }) {
+export default function StudentRow({ student, classes }) {
   const { rank, zone, gap } = student
   const z = ZONES[zone]
   const isFirst = rank === 1
@@ -31,7 +31,7 @@ export default function StudentRow({ student }) {
       </div>
 
       <div className="flex-1">
-        <ProgressBar percent={student.percent} gradient={z.bar} />
+        <ProgressBar classes={classes} completed={student.completed} gradient={z.bar} />
       </div>
 
       <div className="w-16 shrink-0 text-right text-xl font-bold tabular-nums text-white">

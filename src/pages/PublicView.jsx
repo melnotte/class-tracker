@@ -54,7 +54,7 @@ export default function PublicView() {
         <LayoutGroup>
           <div className="space-y-3">
             {ranking.map((student) => (
-              <StudentRow key={student.id} student={student} />
+              <StudentRow key={student.id} student={student} classes={data.classes} />
             ))}
           </div>
         </LayoutGroup>
