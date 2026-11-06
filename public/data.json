@@ -1,147 +1,57 @@
 {
   "className": "Taller de Diseño y Animación Digital",
   "totalSessions": 12,
-  "completedSessions": 6,
+  "completedSessions": 8,
   "classes": [
     {
       "id": "c1",
-      "title": "Clase 1: HTML básico",
+      "title": "Parcial 1",
       "activities": [
         {
           "id": "a1",
-          "name": "Estructura de una página",
+          "name": "Actividad 1",
           "points": 10
         },
         {
           "id": "a2",
-          "name": "Etiquetas de texto",
+          "name": "Actividad 2",
           "points": 10
         },
         {
-          "id": "a3",
-          "name": "Enlaces e imágenes",
-          "points": 10
-        }
-      ]
-    },
-    {
-      "id": "c2",
-      "title": "Clase 2: CSS",
-      "activities": [
-        {
-          "id": "a4",
-          "name": "Colores y tipografía",
-          "points": 10
-        },
-        {
-          "id": "a5",
-          "name": "Cajas y espaciado",
-          "points": 10
-        },
-        {
-          "id": "a6",
-          "name": "Diseño con flexbox",
-          "points": 10
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "title": "Clase 3: Portafolio",
-      "activities": [
-        {
-          "id": "a7",
-          "name": "Crear la página de inicio",
-          "points": 10
-        },
-        {
-          "id": "a8",
-          "name": "Sección de proyectos",
-          "points": 10
-        },
-        {
-          "id": "a9",
-          "name": "Publicar el sitio",
-          "points": 10
-        }
-      ]
-    },
-    {
-      "id": "c4",
-      "title": "Clase 4: Pulido final",
-      "activities": [
-        {
-          "id": "a10",
-          "name": "Versión móvil",
-          "points": 10
-        },
-        {
-          "id": "a11",
-          "name": "Animaciones simples",
-          "points": 10
-        },
-        {
-          "id": "a12",
-          "name": "Revisión entre compañeros",
-          "points": 10
-        }
-      ]
-    },
-    {
-      "id": "c7uje70",
-      "title": "Clase 5: Modelado",
-      "activities": [
-        {
-          "id": "a7l0lvk",
-          "name": "1",
-          "points": 10
-        },
-        {
-          "id": "a26qjod",
-          "name": "2",
-          "points": 10
-        },
-        {
-          "id": "agkfeom",
-          "name": "3",
-          "points": 10
-        }
-      ]
-    },
-    {
-      "id": "cyxx5yy",
-      "title": "Clase 6: Ejemplo",
-      "activities": [
-        {
-          "id": "aw1yfby",
-          "name": "Nueva actividad0",
+          "id": "aoesyu6",
+          "name": "Actividad 3",
           "points": 10
         }
       ]
     },
     {
       "id": "csd24bj",
-      "title": "Clase 7",
+      "title": "Parcial 2",
       "activities": [
         {
           "id": "a6bq1q0",
-          "name": "Nueva actividad1",
+          "name": "Actividad 4",
           "points": 10
         },
         {
-          "id": "a8wljp7",
-          "name": "Nueva actividad2",
+          "id": "agefnr4",
+          "name": "Actividad 5",
           "points": 10
         }
       ]
     },
     {
-      "id": "c0dpqmd",
-      "title": "Clase 8",
+      "id": "c2b1ez8",
+      "title": "Parcial 3",
       "activities": [
         {
-          "id": "al9t0c2",
-          "name": "Nueva actividad3",
+          "id": "akpvtx4",
+          "name": "Actividad 6",
+          "points": 10
+        },
+        {
+          "id": "aimqfmg",
+          "name": "Actividad 7",
           "points": 10
         }
       ]
@@ -150,113 +60,148 @@
   "students": [
     {
       "id": "s1",
-      "name": "Ana",
-      "portfolioUrl": "https://example.com",
+      "name": "Ulises AA",
+      "portfolioUrl": "https://sites.google.com/lawrenceschool.edu.mx/portafoliozarek/p%C3%A1gina-principal?authuser=4",
       "completed": [
-        "a7",
-        "a8",
-        "al9t0c2",
+        "a1",
         "a6bq1q0",
-        "a8wljp7"
+        "aoesyu6",
+        "agefnr4"
       ]
     },
     {
       "id": "s2",
-      "name": "Luis",
-      "portfolioUrl": "https://example.com",
-      "completed": [
-        "a1",
-        "a2",
-        "a3",
-        "a7",
-        "al9t0c2",
-        "a6bq1q0",
-        "a8wljp7"
-      ]
+      "name": "Diego BG",
+      "portfolioUrl": "",
+      "completed": []
     },
     {
       "id": "s3",
-      "name": "Sofía",
-      "portfolioUrl": "",
+      "name": "Gael CN",
+      "portfolioUrl": "https://castronport.straw.page/",
       "completed": [
         "a1",
         "a2",
-        "a3",
-        "a4",
-        "a6",
         "a6bq1q0",
-        "a8wljp7"
+        "aoesyu6",
+        "agefnr4"
       ]
     },
     {
       "id": "s4",
-      "name": "Diego",
-      "portfolioUrl": "https://example.com",
+      "name": "Raul CS",
+      "portfolioUrl": "https://sites.google.com/lawrenceschool.edu.mx/diffuse-art/p%C3%A1gina-principal?authuser=4",
       "completed": [
         "a1",
         "a2",
-        "a3"
-      ]
-    },
-    {
-      "id": "s5",
-      "name": "Valeria",
-      "portfolioUrl": "",
-      "completed": [
-        "a1",
-        "a2",
-        "a3",
-        "a4"
+        "a6bq1q0",
+        "aoesyu6"
       ]
     },
     {
       "id": "s6",
-      "name": "Mateo",
-      "portfolioUrl": "https://example.com",
-      "completed": [
-        "a1",
-        "a2",
-        "a3"
-      ]
-    },
-    {
-      "id": "s7",
-      "name": "Camila",
-      "portfolioUrl": "",
-      "completed": [
-        "a1",
-        "a2"
-      ]
-    },
-    {
-      "id": "s8",
-      "name": "Andrés",
-      "portfolioUrl": "",
-      "completed": [
-        "a1",
-        "a2"
-      ]
-    },
-    {
-      "id": "s9",
-      "name": "Renata",
+      "name": "Alexandra CP",
       "portfolioUrl": "",
       "completed": [
         "a1"
       ]
     },
     {
+      "id": "s7",
+      "name": "Regina CC",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "s8",
+      "name": "Danna CM",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "s9",
+      "name": "Rocco GW",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
       "id": "s10",
-      "name": "Joaquín",
-      "portfolioUrl": "https://www.youtube.com/",
+      "name": "Emiliano MB",
+      "portfolioUrl": "",
       "completed": [
-        "agkfeom",
-        "a26qjod",
-        "a7l0lvk",
-        "a7",
-        "a8",
-        "a9"
+        "a6bq1q0",
+        "agefnr4"
       ]
+    },
+    {
+      "id": "sfh527j",
+      "name": "Annouk PS",
+      "portfolioUrl": "",
+      "completed": [
+        "a1",
+        "a6bq1q0",
+        "agefnr4"
+      ]
+    },
+    {
+      "id": "shxr0vb",
+      "name": "Sergio PL",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "sxcb6bo",
+      "name": "Leonardo RH",
+      "portfolioUrl": "",
+      "completed": [
+        "a1",
+        "a6bq1q0"
+      ]
+    },
+    {
+      "id": "sqjn74d",
+      "name": "Xavi RC",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "sspe1rk",
+      "name": "Julius TA",
+      "portfolioUrl": "",
+      "completed": [
+        "a1",
+        "a6bq1q0",
+        "agefnr4"
+      ]
+    },
+    {
+      "id": "sg21bkp",
+      "name": "Dulce BV",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "sqt8lb8",
+      "name": "Isabella CJ",
+      "portfolioUrl": "https://sites.google.com/lawrenceschool.edu.mx/stargazing-enthusiast/p%C3%A1gina-principal?authuser=4",
+      "completed": [
+        "a1",
+        "a2",
+        "aoesyu6",
+        "a6bq1q0"
+      ]
+    },
+    {
+      "id": "s3nfj0e",
+      "name": "Camila LM",
+      "portfolioUrl": "",
+      "completed": []
+    },
+    {
+      "id": "smvl52x",
+      "name": "Yaiza GC",
+      "portfolioUrl": "",
+      "completed": []
     }
   ]
 }
