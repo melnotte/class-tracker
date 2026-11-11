@@ -66,14 +66,17 @@
         "a1",
         "a6bq1q0",
         "aoesyu6",
-        "agefnr4"
+        "agefnr4",
+        "a2"
       ]
     },
     {
       "id": "s2",
       "name": "Diego BG",
       "portfolioUrl": "",
-      "completed": []
+      "completed": [
+        "a1"
+      ]
     },
     {
       "id": "s3",
@@ -84,7 +87,8 @@
         "a2",
         "a6bq1q0",
         "aoesyu6",
-        "agefnr4"
+        "agefnr4",
+        "akpvtx4"
       ]
     },
     {
@@ -130,7 +134,8 @@
       "portfolioUrl": "",
       "completed": [
         "a6bq1q0",
-        "agefnr4"
+        "agefnr4",
+        "a1"
       ]
     },
     {
@@ -147,7 +152,9 @@
       "id": "shxr0vb",
       "name": "Sergio PL",
       "portfolioUrl": "",
-      "completed": []
+      "completed": [
+        "agefnr4"
+      ]
     },
     {
       "id": "sxcb6bo",
@@ -162,7 +169,10 @@
       "id": "sqjn74d",
       "name": "Xavi RC",
       "portfolioUrl": "",
-      "completed": []
+      "completed": [
+        "aoesyu6",
+        "akpvtx4"
+      ]
     },
     {
       "id": "sspe1rk",
@@ -171,14 +181,17 @@
       "completed": [
         "a1",
         "a6bq1q0",
-        "agefnr4"
+        "agefnr4",
+        "akpvtx4"
       ]
     },
     {
       "id": "sg21bkp",
       "name": "Dulce BV",
       "portfolioUrl": "",
-      "completed": []
+      "completed": [
+        "a2"
+      ]
     },
     {
       "id": "sqt8lb8",
@@ -188,7 +201,8 @@
         "a1",
         "a2",
         "aoesyu6",
-        "a6bq1q0"
+        "a6bq1q0",
+        "akpvtx4"
       ]
     },
     {
