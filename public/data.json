@@ -53,6 +53,22 @@
           "id": "aimqfmg",
           "name": "Actividad 7",
           "points": 10
+        },
+        {
+          "id": "acv1xye",
+          "name": "Actividad 8",
+          "points": 10
+        }
+      ]
+    },
+    {
+      "id": "chh3hkg",
+      "title": "Parcial 4",
+      "activities": [
+        {
+          "id": "am37y5d",
+          "name": "Proyecto Final",
+          "points": 10
         }
       ]
     }
@@ -90,7 +106,8 @@
         "a6bq1q0",
         "aoesyu6",
         "agefnr4",
-        "akpvtx4"
+        "akpvtx4",
+        "aimqfmg"
       ]
     },
     {
@@ -183,7 +200,8 @@
         "a1",
         "a6bq1q0",
         "agefnr4",
-        "akpvtx4"
+        "akpvtx4",
+        "aimqfmg"
       ]
     },
     {
